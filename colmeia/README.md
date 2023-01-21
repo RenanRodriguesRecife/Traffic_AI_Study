@@ -1,6 +1,6 @@
 ## Gargalos
 
-### A teoria do Fecho Eclair (ziper) no trânsito da cidade
+### A teoria do Fecho Eclair (ziper merge) no trânsito da cidade
 
 Ao tentar acessar uma avenida que está congestionada, deparar com estreitamento de pistas, semáforos sem sincronia, cruzamentos mal sinalizados... situações que emperram o fluxo de veículos. Existe um comportamento de mal educação de motorista que costumam impedir a passagem dos outros por disputas.
 
